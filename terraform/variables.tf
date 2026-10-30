@@ -24,3 +24,4 @@ variable "bi_warehouse_size" {
   type        = string
   default     = "SMALL"
 }
+
